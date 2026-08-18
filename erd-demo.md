@@ -1,3 +1,5 @@
+# this is a diagram
+
 ```mermaid
 erDiagram
     AUTHOR {
